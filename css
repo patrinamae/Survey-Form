@@ -1,0 +1,28 @@
+Css
+--
+
+#title{
+  text-align:center;
+  font-size:50px;
+  font-family: "Verdana";
+  color:#ff8080;
+  font-style:italic;
+ 
+}
+#decription{
+  text-align:center;
+  font-style:italic;
+  font-size:15px;
+}
+
+label{
+ padding: 25px;
+ font-family: "Courier New";
+
+}
+#box{
+  background: linear-gradient(to bottom, #33ccff 0%, #ffcccc 100%);
+  padding: 10px ;
+  border: 250px solid pink ;
+
+}
