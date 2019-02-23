@@ -4,6 +4,7 @@ html
 ---
 
 
+
 <div id="box">
 <h1 id="title">Survey Form</h1>
 <p id="decription"> "I tried my best to make this form pretty" </p>
@@ -48,10 +49,11 @@ html
 <br>
   <legend>Normal?</legend>
 <label> <input type="checkbox">I Survive a normal day</label>
+  </fieldset>
 <br>
 <br>
 <label for"something" id="something">"Tell me more amazing things about yourself:" </label>
-</fieldset>
+
 <br>
 <textarea rows="4" cols="50">
 </textarea>
